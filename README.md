@@ -1,4 +1,4 @@
-# Design Patterns in Javascript
+# Design Patterns in Javascript!
 This will be a repository of how to use the Design Patterns from *Gang of Four* in your applications with Javascript.
 
 ## Update:
